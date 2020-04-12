@@ -9,3 +9,4 @@ After this, model tuning was done with Randomized SearchCV for a better accuracy
 And by this, we were able to achieve a slight increase in the accuracy i.e 85%.
 But, we had a problem in this very stage of the analysis, as we faced an overfitting condition for the test accuracy. And because of this, we applied another model to this project which was XGBoost Classifier.
 On applying the extreme gradient boosting algorithm, we had a dip in the accuracy which was approxiately 82% but now the overfitting condition was much improved which made the model more accurate to predict the survivors involved in the RMS Titanic shipwreck.
+I scored a rank of 8658 out of almost 18000 teams invovled in the competition.
